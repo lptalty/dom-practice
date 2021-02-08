@@ -1,0 +1,1 @@
+This workspace is to practice manipulating the DOM with javascript, which should be more applicable in the future. 
